@@ -1,6 +1,6 @@
 export default{
     root: 'src',
-    base: 'https://<https://github.com/JosiErlo/projeto-Josi.git>/',
+    base: 'https://JosiErlo.github.io/projeto-Josi/',
     build: {
         outDir: '../dist'
     }
